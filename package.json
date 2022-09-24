@@ -1,0 +1,21 @@
+{
+  "name": "spencers-theme",
+  "displayName": "Spencer's Theme",
+  "description": "Spencer's Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spencer's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spencer's Theme-color-theme.json"
+      }
+    ]
+  }
+}
